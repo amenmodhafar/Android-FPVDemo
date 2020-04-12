@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FPVDemo.iml" filepath="$PROJECT_DIR$/FPVDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/FPVDemo-app.iml" filepath="$PROJECT_DIR$/app/FPVDemo-app.iml" group="FPVDemo/app" />
+      <module fileurl="file://$PROJECT_DIR$/TrainerHabibi-FPVDemo.iml" filepath="$PROJECT_DIR$/TrainerHabibi-FPVDemo.iml" group="FPVDemo" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
